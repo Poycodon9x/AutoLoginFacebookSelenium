@@ -20,5 +20,5 @@ time.sleep(1)
 driver.find_element_by_name('login').click()
 time.sleep(4)
 
-driver.get('https://wwww.facebook.com/sondc98')
+driver.get('https://wwww.facebook.com/thanoscute')
 time.sleep(1)
